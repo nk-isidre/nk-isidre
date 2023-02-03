@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://nk-isidre.github.io/static/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/nk-isidre/nk-isidre/blob/main/static/gifs/greetings.gif" align="center" style="width: 100%" />
 </div>
 
 
@@ -67,10 +67,7 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=nk-isidre&&style=flat-square" align="center" />
 </div>
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
